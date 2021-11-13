@@ -1,10 +1,6 @@
-👋 Hi, I’m @skakos
+👀 Spiros Kakos (skakos) is located in Athens, Greece. Spiros has a diploma in Chemical Engineering, an MSc in Advanced Materials' Technology, an MBA in Decisions' Science, a phD in the use of conductive polymers in PCB industry and is still learning. He also worked as a technical advisor and a researcher in the Advanced Materials sector for many years in the past. In his free time he develops software solutions and contributes to the open source community. He is the creator of Huo Chess, one of the smallest micro-chess programs ever that is perfect for educational purposes. Every year the program is improving while its size is decreasing, while taking into account all the latest developments in the programming scene.
 
-👀 I’m interested in programming, philosophym writing and open source.
-
-🌱 Seek my latest contributions either here in Git Hub or in the main site of Harmonia Philosophica.
-
-💞️ I am open for proposals for collaborations regarding writing or open source development.
+🌱 Seek my latest contributions either here in Git Hub or in the main site of Harmonia Philosophica. I am open for proposals for collaborations regarding writing or open source development.
 
 📫 You can communicate with me via the Harmonia Philosophica portal or through a comment here.
 
